@@ -10,7 +10,9 @@ This is a ```Vagrantfile``` to spawn an podman environment ready to be used.
 # Vagrant cli
 
 $ vagrant up 		- for building the VM
+
 $ vagrant ssh		- for log-in into the ssh of the VM. the hosting machine ssh-key has been copied to the target machine.
+
 $ vagrant destroy 	- for terminate the VM
 
 # Pre-requisites
